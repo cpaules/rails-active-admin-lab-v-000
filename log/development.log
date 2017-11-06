@@ -2917,3 +2917,25 @@ Processing by SongsController#index as HTML
   [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "artists".* FROM "artists" WHERE "artists"."id" = ? LIMIT 1[0m  [["id", 8]]
   [1m[35mCACHE (0.0ms)[0m  SELECT  "artists".* FROM "artists" WHERE "artists"."id" = ? LIMIT 1  [["id", 8]]
   Rendered songs/index.html.erb within layouts/application (46.6ms)
+Completed 200 OK in 15303ms (Views: 15300.4ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/assets/active_admin.self-234e49fb9451d666c415c5a6b0b32cbaf8f0d512ae68a5cfa768aed32393ba78.css?body=1" for 74.108.48.231 at 2017-11-06 20:44:04 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 74.108.48.231 at 2017-11-06 20:44:04 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/admin" for 74.108.48.231 at 2017-11-06 20:44:20 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Admin::DashboardController#index as HTML
+Completed 401 Unauthorized in 8ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/admin/login" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ActiveAdmin::Devise::SessionsController#new as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.1/bundler/gems/activeadmin-58929997e176/app/views/active_admin/devise/shared/_links.erb (6.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1/bundler/gems/activeadmin-58929997e176/app/views/active_admin/devise/sessions/new.html.erb within layouts/active_admin_logged_out (106.6ms)
