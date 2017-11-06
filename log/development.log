@@ -2939,3 +2939,194 @@ Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.
 Processing by ActiveAdmin::Devise::SessionsController#new as HTML
   Rendered /usr/local/rvm/gems/ruby-2.3.1/bundler/gems/activeadmin-58929997e176/app/views/active_admin/devise/shared/_links.erb (6.1ms)
   Rendered /usr/local/rvm/gems/ruby-2.3.1/bundler/gems/activeadmin-58929997e176/app/views/active_admin/devise/sessions/new.html.erb within layouts/active_admin_logged_out (106.6ms)
+Completed 200 OK in 380ms (Views: 360.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/jquery-ui/version.self-c8e3d1203da26ea7efdf83c1eabb3f0ba55cb68e463f5ccf0d77bd15ce6a8e61.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/keycode.self-ad63cd20acf49dd333bbbc537454d7d475bd610eb5b88de0dca009f0c3d314b1.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery3.self-06c43429d1047ce3f355da574d8a9750209971b8b1b8f264f91f5518c5fcc060.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/widgets/checkboxradio.self-0b7409f97114a33de116bd5429e9df199cbdea3f276d8bd725c4c2c60f244711.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/widget.self-fca20bcec06d192f97cffa6e734e24360e227237b8ae7d7e7e60754df7d5444f.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/widgets/controlgroup.self-0b7409f97114a33de116bd5429e9df199cbdea3f276d8bd725c4c2c60f244711.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/widgets/button.self-659b51f6fb5303f90ed8cf551509063770a50168a15795ba834b08f8bf2e0ce0.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/widgets/datepicker.self-2af0dec09da99d687c31fc224e940687a4eb3694e7b38b0871bba475cad86120.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/ie.self-163eb039dcb1e0c3471b7d91386eabb8753da6906e84824c019f9ff56bdb83a6.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/widgets/mouse.self-f0790a202dcf54fab051e71b042335d5346f9cceb0f645223c1dab93f349a04b.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/data.self-2067c82e6fe39a9cba5623206a5dc28d5c60d26b95cd100855b78cacf72865b8.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/plugin.self-d8f576c8e073ca51f095505f47bd09d306b875404cd90afcbb6338287cfb0247.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/safe-blur.self-2cc24c46132d51c7724f6371154241b0a81c9bae5d5681d8f62b01ce46236726.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/safe-active-element.self-a1f1a1a7dae3269ce03f6fffb2dcc9b4a7490f5d546c65d54417bec3be24b668.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/widgets/draggable.self-42c3eda0b49f105628cea7580fe38c7ed77467cee384bb2c4e095a2bd0a172e6.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/scroll-parent.self-38e26a71a450a29fb63425e8f589a7046862f927eb0a1dbf6a6c44da05196d2e.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/disable-selection.self-5675f71f2fbbc6857ea700ba843af748b50dbc0150cc87932a7d05ec016bb659.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/focusable.self-426e99e67d1f1bd4cb444fd878ee63a6de1f5d1d61451e43022c86214b9eec64.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/position.self-1b49c8c521e67a4a88bfdad6b4d944d33686d25009a0e40a1e170acdd7b6962a.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/widgets/resizable.self-1a46c2f5b876918e02bf979080e56f57846590cd880721bca5058e84f7f60bae.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/tabbable.self-f3f62ceed772d3a325cebd6a03221f8a8cb02c6150f4feba738c6525a2953690.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/unique-id.self-66e85ac85cd0b6b8b1bb89369fc65f608f716869dc0930862a8d421a57a9580a.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/widgets/dialog.self-2bd687f9580c0be4213c50b4bb1211c28ceedb045eba954e63d40bfbb4d1affd.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/widgets/sortable.self-6e5e1f07a29b5a89ec1d359363d2800904e3ae548a38ab2f8eded36746d1adbe.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/escape-selector.self-43e4d61501e4ffb1ecba387affbae1eb3e1c863ab0b0e71897851cddd246e50e.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery-ui/widgets/tabs.self-b7f60535e992224ca66c3f11dc943eba9ef42a9605241e27b9dba24c7efb287e.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin/base.self-cdde0d466bfd8177bbfc3b8fd2df1e8d835530ff5256253097f34c6e5bb1e24a.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin/ext/jquery.self-ae1efb8ed7902a7f7f8d8fcbbb99282033f11e475561909230e217e1b775051a.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:21 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.self-45333a65ddfe1ff71381b2d58c2d4dd73d131e134a1f523664a08fdf5c15c20a.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:22 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin/lib/active_admin.self-ee6dd320b07a50176b470a92a99f5f59d0f4e2b2803a9d65fe7d6746cdf71bc1.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:22 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin/lib/batch_actions.self-507da08bcd6e7513b078ea453da3820aba63d515193672ab0460155a8cb8598b.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:22 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.self-de3391f920f80015b62345768d12b415ef1d72fbc98d00c99e7be670567f7867.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:22 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin/lib/has_many.self-7d41d46ecadbe8d1a30c2d27ae34265157554968b1ef6ec25fd2e168870b1014.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:22 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.self-ec87eb3d43887b6d80bdd9d7fefb36a977e6571b6173966102df2982981362cf.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:22 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin/lib/per_page.self-696cdc4b18a2d48202ec0c7b156a9d9eb2d85265a49cd849fec41788b90a9dd4.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:22 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.self-873d2c047db1f395e84a74ebfbff8cad31d4fc8ee0d004567e9f5014f03f6515.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:22 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.self-50e6f93dffa0e2d16a233e962a09b800cea0592827afebde179313406b7527d2.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:22 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin/initializers/datepicker.self-172a9282361b295fe3310a48bb28dbe77bee319c792520c87f73f7008aeec684.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:22 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin/initializers/filters.self-5793b83192570303a130f19fce66e8b60ae7fd887f5bcca408aec407c32729c5.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:22 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin/initializers/tabs.self-5f37cede19f91addb4997338a3d854ed2441521f5b7ed73493b8e0bdca41e03b.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:22 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for 74.108.48.231 at 2017-11-06 20:44:22 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/active_admin/print.self-a12acbcfd396e89dd5d7dbb4eb1b9d58efb1cc71ce09c96d5178e0ed1d68443e.css?body=1" for 74.108.48.231 at 2017-11-06 20:44:22 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started POST "/admin/login" for 74.108.48.231 at 2017-11-06 20:44:45 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ActiveAdmin::Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"IoQO68iTEl0hjKarB2hXD5gQeGBZVDHNp0+3V7Lb6zq4JGl0tK3Mx20PDKJkBxhzg8YhYAVFu83BLYPHKGn5pA==", "admin_user"=>{"email"=>"admin@example.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Login"}
+  [1m[36mAdminUser Load (0.4ms)[0m  [1mSELECT  "admin_users".* FROM "admin_users" WHERE "admin_users"."email" = ?  ORDER BY "admin_users"."id" ASC LIMIT 1[0m  [["email", "admin@example.com"]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mUPDATE "admin_users" SET "last_sign_in_at" = ?, "current_sign_in_at" = ?, "last_sign_in_ip" = ?, "current_sign_in_ip" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "admin_users"."id" = ?[0m  [["last_sign_in_at", "2017-11-06 20:44:45.159456"], ["current_sign_in_at", "2017-11-06 20:44:45.159456"], ["last_sign_in_ip", "74.108.48.231"], ["current_sign_in_ip", "74.108.48.231"], ["sign_in_count", 1], ["updated_at", "2017-11-06 20:44:45.160831"], ["id", 1]]
+  [1m[35m (3.1ms)[0m  commit transaction
+Redirected to http://67.205.165.109:43890/admin
+Completed 302 Found in 132ms (ActiveRecord: 3.9ms)
+
+
+Started GET "/admin" for 74.108.48.231 at 2017-11-06 20:44:45 +0000
+Cannot render console from 74.108.48.231! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Admin::DashboardController#index as HTML
+  [1m[36mAdminUser Load (0.3ms)[0m  [1mSELECT  "admin_users".* FROM "admin_users" WHERE "admin_users"."id" = ?  ORDER BY "admin_users"."id" ASC LIMIT 1[0m  [["id", 1]]
